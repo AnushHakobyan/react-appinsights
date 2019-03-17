@@ -59,3 +59,7 @@ test-dist
 test-dist*
 browser
 test-browser
+
+# ide
+
+**/.idea

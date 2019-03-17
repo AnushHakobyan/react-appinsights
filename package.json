@@ -1,7 +1,7 @@
 {
   "name": "react-appinsights",
-  "version": "2.0.2",
-  "description": "Application Insights module for React applications",
+  "version": "0.0.1",
+  "description": "Application Insights module for React applications - forked from 2.0.2 to upgrade appinsights-usage package",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel src --out-dir dist-esm/src && babel test --out-dir dist-esm/test && rollup -c && rollup -c rollup.test.config.js",
@@ -32,7 +32,7 @@
   "homepage": "https://github.com/Azure/react-appinsights#readme",
   "sideEffects": false,
   "dependencies": {
-    "appinsights-usage": "^1.0.2",
+    "appinsights-usage-upgraded": "^0.0.1",
     "applicationinsights-js": "^1.0.20",
     "away": "^1.0.0",
     "history": "^4.7.2"

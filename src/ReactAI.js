@@ -3,7 +3,7 @@
 
 import React from 'react';
 import { AppInsights } from 'applicationinsights-js';
-import AppInsightsUsage from 'appinsights-usage';
+import AppInsightsUsage from 'appinsights-usage-upgraded';
 import away from 'away';
 
 export const ReactAI = {
