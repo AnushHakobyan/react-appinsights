@@ -1,5 +1,5 @@
 {
-  "name": "react-appinsights",
+  "name": "react-appinsights-upgraded",
   "version": "0.0.1",
   "description": "Application Insights module for React applications - forked from 2.0.2 to upgrade appinsights-usage package",
   "main": "dist/index.js",
